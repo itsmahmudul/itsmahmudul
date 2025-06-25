@@ -22,10 +22,11 @@
 const mahmudul = {
   name: "MD Mahmudul Alam",
   pronouns: "he" | "him",
-  code: ["JavaScript", "TypeScript", "CSS"],
-  tools: ["React", "Next.js", "Node.js", "Express", "MongoDB"],
+  code: ["JavaScript", "TypeScript", "CSS", "HTML"],
+  tools: ["React", "Next.js", "Node.js", "Express", "MongoDB", "Tailwind CSS", "Git", "GitHub"],
+  currentlyLearning: ["Advanced backend patterns", "TypeScript best practices", "System Design"],
   challenge: "Currently building real-world MERN stack projects and sharpening backend skills",
-  funFact: "Dark mode is my default mood 😎"
+  funFact: "I once built a full website just to test a single CSS animation 🤓"
 };
 
 ```
