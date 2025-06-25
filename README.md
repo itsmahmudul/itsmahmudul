@@ -1,10 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itsmahmudul/itsmahmudul/main/banner.gif" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm MD Mahmudul Alam</h1>
-<h3 align="center">A frontend developer building the visual and interactive parts of websites and web applications.</h3>
-
----
-
-👨‍💻 **Frontend Developer** | ⚛️ **React Lover** | 🚀 Turning ideas into interactive web experiences  
-🌐 Always learning & building | 💡 Passionate about crafting user-friendly interfaces  
+<h3 align="center">A frontend developer building the visual and interactive parts of websites and web applications.</h3>  
 
 ---
 
@@ -66,4 +65,3 @@
 ---
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=itsmahmudul&color=green)
-
