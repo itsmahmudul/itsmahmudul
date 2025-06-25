@@ -43,8 +43,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdmahmudulalam&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahmudulalam&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsmahmudul&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmahmudul&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -52,7 +52,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdmahmudulalam&theme=algolia" />
+  <img src="https://github-profile-trophy.vercel.app/?username=itsmahmudul&theme=algolia" />
 </p>
 
 ---
@@ -60,10 +60,10 @@
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mdmahmudulalam&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=itsmahmudul&theme=radical" />
 </p>
 
 ---
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=mdmahmudulalam&color=green)
+![Visitor Badge](https://komarev.com/ghpvc/?username=itsmahmudul&color=green)
 
