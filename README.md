@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/itsmahmudul/itsmahmudul/main/banner.gif](https://raw.githubusercontent.com/itsmahmudul/itsmahmudul/refs/heads/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)" alt="Banner" width="100%" />
+  <img src="White Minimalist Corporate Personal Profile LinkedIn Banner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm MD Mahmudul Alam</h1>
