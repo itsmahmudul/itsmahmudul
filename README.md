@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="White Minimalist Corporate Personal Profile LinkedIn Banner.png" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/itsmahmudul/itsmahmudul/main/banner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm MD Mahmudul Alam</h1>
@@ -11,12 +11,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,ts,tailwind,git,github,vscode" />
 </p>
-
----
-
-### 📫 Connect with Me
-- 📧 Email: [mdmahmudul.dev@gmail.com](mailto:mdmahmudul.dev@gmail.com)  
-- 💼 LinkedIn: [md-mahmudul-alam](https://www.linkedin.com/in/md-mahmudul-alam-3a6447370/)
 
 ---
 
@@ -61,6 +55,14 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=itsmahmudul&theme=radical" />
 </p>
+
+---
+
+### 📍 Where to Find Me
+
+- 🌐 Portfolio: _Coming Soon_  
+- 💼 LinkedIn: [md-mahmudul-alam](https://www.linkedin.com/in/md-mahmudul-alam-3a6447370/)  
+- 📧 Email: [mdmahmudul.dev@gmail.com](mailto:mdmahmudul.dev@gmail.com)  
 
 ---
 
