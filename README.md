@@ -14,6 +14,23 @@
 
 ---
 
+---
+
+### 🧑‍💻 A Little More About Me
+
+```js
+const mahmudul = {
+  name: "MD Mahmudul Alam",
+  pronouns: "he" | "him",
+  code: ["JavaScript", "TypeScript", "CSS"],
+  tools: ["React", "Next.js", "Node.js", "Express", "MongoDB"],
+  challenge: "Currently building real-world MERN stack projects and sharpening backend skills",
+  funFact: "Dark mode is my default mood 😎"
+};
+
+```
+---
+
 ### 🤓 Fun Facts About Me
 - 🧠 I can spend hours debugging and still call it fun!
 - 🎯 I once built a full website just to learn one CSS trick.
